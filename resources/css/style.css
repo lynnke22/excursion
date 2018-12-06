@@ -8,4 +8,11 @@ h1{
 
 body{
   background-color: black;
+  text-align: center;
+}
+
+h2{
+  font-family: Verdana
+  font-weight: 300;
+  font-size: 42px;
 }
